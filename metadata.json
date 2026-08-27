@@ -1,0 +1,6 @@
+{
+  "name": "QMAS-X",
+  "description": "Master Data Engine for Divi Dynamic AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
